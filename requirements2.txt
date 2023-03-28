@@ -1,0 +1,5 @@
+imutils
+scipy
+numpy
+argparse
+dlib
